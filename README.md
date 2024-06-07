@@ -13,6 +13,9 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 - Collaborative Editing in Rich Text Editor
 - Sign Out
 
+##LinkedIn 
+https://www.linkedin.com/in/fahad-bashir-259798201/
+
 ## Tech Used
 **Server**: Nodejs, Express, MongoDB, Mongoose, SocketIO
 
@@ -20,5 +23,5 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
     
 ## Feedback
 
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
+If you have any feedback, please reach out to me at fahadbashir804@gmail.com
 
