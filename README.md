@@ -13,7 +13,7 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 - Collaborative Editing in Rich Text Editor
 - Sign Out
 
-##LinkedIn 
+## LinkedIn 
 https://www.linkedin.com/in/fahad-bashir-259798201/
 
 ## Tech Used
